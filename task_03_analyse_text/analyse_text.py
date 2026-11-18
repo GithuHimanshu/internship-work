@@ -39,7 +39,7 @@ def count_word(text):
 
 text = "I will be learning python"
 
-print(count_word(text))
-print(count_word(text))
-print(count_word(text))
+print(reversed_text(text))
+print(count_digits(text))
+print(count_vowels(text))
 print(count_word(text))
